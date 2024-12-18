@@ -24,16 +24,17 @@ This website serves as an online presence for the DSE fitness center, where user
 - CSS3
 - JavaScript (FontAwesome for icons)
 - [Google Fonts](https://fonts.google.com/) (Oswald and Lato)
+- ChatGPT
 
 ## Setup
 To run this project locally:
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/dse-website.git
+    git clone https://github.com/Robertas-Cyberattack/DSE.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd dse-website
+    cd DSE
     ```
 3. Open `index.html` in your web browser to view the website.
 
